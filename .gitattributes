@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.zip filter=lfs diff=lfs merge=lfs -text
+=======
+STE[[:space:]](1).zip filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 670d3c504fe9d95cd4dba04d56df213513161b83
